@@ -11,6 +11,6 @@
 ## 🛠 Tech Stack
 - Python • Pandas • Scikit-learn • Seaborn • Matplotlib
 
-[Jupyter Notebook](iris.ipynb)
+[Jupyter Notebook](iris_ml.ipynb)
 
 **Deepak202011 | ML Portfolio #2**
